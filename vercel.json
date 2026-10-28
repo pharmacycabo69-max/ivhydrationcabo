@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.rmcpharmacy.com/services/iv-therapy",
+      "statusCode": 301
+    },
+    {
+      "source": "/((?!robots\\.txt|sitemap\\.xml|sitemap-.*\\.xml).*)",
+      "destination": "https://www.rmcpharmacy.com/services/iv-therapy",
+      "statusCode": 301
+    }
+  ]
+}
